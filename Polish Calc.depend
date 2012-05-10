@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1336483544 source:k:\programs\polish calc\polish calc.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<stack>
+
